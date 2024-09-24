@@ -7,11 +7,9 @@ const Navbar = () => {
     <header className=" w-full py-4 sm:px-10 px-5 flex justify-between items-center">
       <nav className=" flex max-sm:w-full  max-sm:screen-max-width md:mx-auto md:gap-7 items-center">
         <img
-          className=" cursor-pointer"
+          className=" cursor-pointer md:w-[13px] md:h-[17px] w-[18px] h-[22px]"
           src={appleImg}
           alt="Apple"
-          width={13}
-          height={17}
         />
         <div className=" flex flex-1 justify-center max-sm:hidden ">
           {navLists.map((item) => (
@@ -25,18 +23,14 @@ const Navbar = () => {
         </div>
         <div className=" flex items-baseline gap-7 max-sm:justify-end max-sm:flex-1">
           <img
-            className=" cursor-pointer"
+            className=" cursor-pointer md:size-[14px] size-[18px]"
             src={searchImg}
             alt="search"
-            width={14}
-            height={14}
           />
           <img
-            className=" cursor-pointer"
+            className=" cursor-pointer md:size-[14px] size-[18px]"
             src={bagImg}
             alt="bag"
-            width={14}
-            height={14}
           />
         </div>
       </nav>
