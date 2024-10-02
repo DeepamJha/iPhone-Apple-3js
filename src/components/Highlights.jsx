@@ -1,7 +1,7 @@
-import { useGSAP } from "@gsap/react";
-import gsap from "gsap";
-import { rightImg, watchImg } from "../utils";
-import VideoCarousel from "./VideoCarousel";
+import { useGSAP } from "@gsap/react"
+import gsap from "gsap"
+import { rightImg, watchImg } from "../utils"
+import VideoCarousel from "./VideoCarousel"
 
 const Highlights = () => {
   useGSAP(() => {
@@ -9,14 +9,14 @@ const Highlights = () => {
       opacity: 1,
       y: 0,
       duration: 1,
-    });
+    })
     gsap.to(".link", {
       opacity: 1,
       y: 0,
       duration: 1,
       stagger: 0.2,
-    });
-  }, []);
+    })
+  }, [])
   return (
     <section
       id="highlights"
@@ -41,7 +41,7 @@ const Highlights = () => {
         <VideoCarousel />
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default Highlights;
+export default Highlights
