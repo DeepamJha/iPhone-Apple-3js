@@ -201,7 +201,7 @@ const VideoCarousel = () => {
           ))}
         </div>
 
-        <button className="control-btn">
+        <button id="butt" className="control-btn">
           <img
             src={isLastVideo ? replayImg : !isPlaying ? playImg : pauseImg}
             alt={isLastVideo ? "replay" : !isPlaying ? "play" : "pause"}
