@@ -22,7 +22,7 @@ const Hero = () => {
   }, [])
   useGSAP(() => {
     gsap.to("#hero", { opacity: 1, delay: 2.0, duration: 2 })
-    gsap.to("#cta", { opacity: 1, delay: 2.0, y: -100, duration: 1 })
+    gsap.to("#cta", { opacity: 1, delay: 2.0, y: -50, duration: 1 })
   }, [])
   return (
     <section className=" w-full nav-height bg-black relative ">
