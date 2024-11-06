@@ -23,15 +23,8 @@ const Footer = () => {
           <p className="font-semibold text-gray text-xs">
             Copright @ 2024 Apple Inc. All rights reserved.
           </p>
-          <div className="flex">
-            {footerLinks.map((link, i) => (
-              <p key={link} className="font-semibold text-gray text-xs">
-                {link}{" "}
-                {i !== footerLinks.length - 1 && (
-                  <span className="mx-2"> | </span>
-                )}
-              </p>
-            ))}
+          <div className="flex font-semibold text-gray text-xs">
+            Privacy Policy | Terms of Use | Sales Policy | Legal | Site Map
           </div>
         </div>
       </div>
