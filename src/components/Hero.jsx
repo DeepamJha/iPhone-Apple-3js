@@ -22,15 +22,15 @@ const Hero = () => {
   }, [])
   useGSAP(() => {
     gsap.to("#hero", { opacity: 1, delay: 2.0, duration: 2 })
-    gsap.to("#cta", { opacity: 1, delay: 2.0, y: -80, duration: 1 })
+    gsap.to("#cta", { opacity: 1, delay: 2.0, y: -100, duration: 1 })
   }, [])
   return (
     <section className=" w-full nav-height bg-black relative ">
       <div className=" h-5/6 w-full flex-center flex-col ">
-        <p id="hero" className=" hero-title font-SFproBold border">
+        <p id="hero" className=" hero-title font-SFproBold ">
           iPhone 15 Pro
         </p>
-        <div className=" md:w-9/12 w-9/12 border">
+        <div className=" md:w-9/12 w-9/12 ">
           <video
             className=" pointer-events-none"
             autoPlay
@@ -42,7 +42,7 @@ const Hero = () => {
           </video>
         </div>
       </div>
-      <div id="cta" className="flex flex-col items-center opacity-0 border">
+      <div id="cta" className="flex flex-col items-center opacity-0">
         <a
           href="https://www.apple.com/in/shop/buy-iphone/iphone-15"
           className="btn"
