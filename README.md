@@ -11,32 +11,32 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/contributors/rinkitadhana/The-Daily-Crimes" alt="contributors" />
+  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+    <img src="https://img.shields.io/github/contributors/rinkitadhana/iPhone15-Apple-Clone" alt="contributors" />
   </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/last-commit/rinkitadhana/The-Daily-Crimes" alt="last update" />
+  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+    <img src="https://img.shields.io/github/last-commit/rinkitadhana/iPhone15-Apple-Clone" alt="last update" />
   </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/forks/rinkitadhana/The-Daily-Crimes" alt="forks" />
+  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+    <img src="https://img.shields.io/github/forks/rinkitadhana/iPhone15-Apple-Clone" alt="forks" />
   </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/stars/rinkitadhana/The-Daily-Crimes" alt="stars" />
+  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+    <img src="https://img.shields.io/github/stars/rinkitadhana/iPhone15-Apple-Clone" alt="stars" />
   </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/issues/rinkitadhana/The-Daily-Crimes" alt="open issues" />
+  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+    <img src="https://img.shields.io/github/issues/rinkitadhana/iPhone15-Apple-Clone" alt="open issues" />
   </a>
  
 </p>
    
 <h4>
-    <a href="https://thedailycrimes.vercel.app/">View Demo</a>
+    <a href="https://therinkit-appleclone.vercel.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes">Documentation</a>
+    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes/issues/">Report Bug</a>
+    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes/issues/">Request Feature</a>
+    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -64,7 +64,7 @@
 ###  Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="screenshot" />
+  <img src="https://github.com/user-attachments/assets/90a3dd0d-5971-44ee-8129-0c3c94005d6d" alt="screenshot" />
 </div>
 
 
@@ -75,9 +75,11 @@
   <summary>Client</summary>
   <ul>
         <li><a href="">React.js</a></li>
-        <li><a href="">Typescript</a></li>
+        <li><a href="">Javascript</a></li>
         <li><a href="">TailwindCSS</a></li>
         <li><a href="">GSAP</a></li>
+        <li><a href="">ThreeJS</a></li>
+
 
   </ul>
 </details>
@@ -85,9 +87,8 @@
 <!-- Features -->
 ### Features
 
-- Newspaper UI
-- Clean Animation
-- Shows crimes in a newspaper UI
+- It looks similar to the original apple site with cool animation and 3D models
+- simple UI
 
 
 <!-- Getting Started -->
