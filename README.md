@@ -52,6 +52,7 @@
 - [Getting Started](#getting-started)
   * [Run Locally](#run-locally)
 - [Contributing](#contributing)
+- [Contact](#contacts)
 
   
 
@@ -132,6 +133,8 @@ Start the server
 
 Contributions are always welcome!
 
+##Contacts
+<a href ="deepamjha619@gmail.com"> Email </a>
 
 
  
