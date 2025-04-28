@@ -30,7 +30,7 @@
 </p>
    
 <h4>
-    <a href="https://therinkit-appleclone.vercel.app">View Demo</a>
+    <a href="https://i-phone-apple-clone.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git">Documentation</a>
   <span> · </span>
