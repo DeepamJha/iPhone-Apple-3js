@@ -11,19 +11,19 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+  <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git">
     <img src="https://img.shields.io/github/contributors/rinkitadhana/iPhone15-Apple-Clone" alt="contributors" />
   </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+  <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git">
     <img src="https://img.shields.io/github/last-commit/rinkitadhana/iPhone15-Apple-Clone" alt="last update" />
   </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+  <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git">
     <img src="https://img.shields.io/github/forks/rinkitadhana/iPhone15-Apple-Clone" alt="forks" />
   </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+  <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git">
     <img src="https://img.shields.io/github/stars/rinkitadhana/iPhone15-Apple-Clone" alt="stars" />
   </a>
-  <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">
+  <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git">
     <img src="https://img.shields.io/github/issues/rinkitadhana/iPhone15-Apple-Clone" alt="open issues" />
   </a>
  
@@ -32,11 +32,11 @@
 <h4>
     <a href="https://therinkit-appleclone.vercel.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone">Documentation</a>
+    <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone/issues/">Report Bug</a>
+    <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/iPhone15-Apple-Clone/issues/">Request Feature</a>
+    <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-.git/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -52,7 +52,6 @@
 - [Getting Started](#getting-started)
   * [Run Locally](#run-locally)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
   
 
@@ -100,7 +99,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/rinkitadhana/The-Daily-Crimes
+  git clone https://github.com/DeepamJha/iPhone-Apple-Clone-.git
 ```
 
 Go to the project directory
@@ -126,8 +125,8 @@ Start the server
 <!-- Contributing -->
 ## Contributing
 
-<a href="https://github.com/rinkitadhana/The-Daily-Crimes/contributors">
-  <img src="https://contrib.rocks/image?repo=rinkitadhana/The-Daily-Crimes" />
+<a href="https://github.com/DeepamJha/iPhone-Apple-Clone-">
+  <img src="https://github.com/account" />
 </a>
 
 
@@ -135,10 +134,4 @@ Contributions are always welcome!
 
 
 
-<!-- Contact -->
-##  Contact
-
-Rinkit Adhana - [@damnGruz](https://twitter.com/damnGruz) - therinkit@gmail.com
-
-Portfolio - [therinkit.online](https://therinkit.online)
-
+ 
