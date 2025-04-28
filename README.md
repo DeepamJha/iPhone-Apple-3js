@@ -126,7 +126,7 @@ Start the server
 ## Contributing
 
 <a href="https://github.com/DeepamJha/iPhone-Apple-Clone-">
-  <img src="https://github.com/account" />
+  <img src="https://avatars.githubusercontent.com/u/139631669?v=4" />
 </a>
 
 
